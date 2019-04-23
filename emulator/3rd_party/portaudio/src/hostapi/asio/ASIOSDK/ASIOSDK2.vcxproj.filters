@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="common\asio.cpp" />
+    <ClCompile Include="common\combase.cpp" />
+    <ClCompile Include="common\debugmessage.cpp" />
+    <ClCompile Include="common\register.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="common\asio.h" />
+    <ClInclude Include="common\asiosys.h" />
+    <ClInclude Include="common\combase.h" />
+    <ClInclude Include="common\iasiodrv.h" />
+    <ClInclude Include="common\wxdebug.h" />
+  </ItemGroup>
+</Project>

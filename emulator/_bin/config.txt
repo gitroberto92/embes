@@ -1,0 +1,8 @@
+RecDirectory = rec03
+PortamentoDepth = 0.50
+PortamentoTime = 0.03
+PortamentoFlag = true
+AttackTime = 0.10
+ReleaseTime = 0.10
+ReleaseLevel = 0.50
+CurrentKeySet = 0
